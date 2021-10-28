@@ -1,0 +1,39 @@
+.container {
+  place-items: center;
+  color: white;
+}
+.home-class {
+  background-color: rgb(180, 105, 233);
+}
+.text {
+  margin-top: 100px;
+  font-size: 20px;
+}
+
+.home-column {
+  margin-left: 100px;
+}
+
+.home-image {
+  margin-top: 120px;
+}
+.buttons > .btn:hover {
+  background-color: black;
+}
+
+.icon-images {
+  margin-left: 200px;
+}
+
+.heading {
+  font-size: 120px;
+  font-weight: bold;
+}
+.btn {
+  background-color: rgb(57, 199, 209);
+}
+
+.home-button {
+  height: 60px;
+  width: 180px;
+}

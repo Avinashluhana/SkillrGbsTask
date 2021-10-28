@@ -1,0 +1,46 @@
+.navbar-class {
+  background-color: hsl(275, 74%, 66%);
+  position: fixed;
+  top: 0;
+}
+
+.navbar-li {
+  margin-top: 20px;
+  margin-left: 250px;
+}
+.nav-item > a {
+  font-size: 20px;
+  margin-left: 20px;
+}
+
+.nav_black {
+  background-color: black;
+  width: 100%;
+  opacity: 0.7;
+}
+
+.nav-link {
+  color: white !important;
+}
+
+.navbar-brand {
+  margin-left: 50px;
+  margin-top: 20px;
+}
+
+.fab {
+  color: white !important;
+  font-size: 15px;
+  margin-left: 10px;
+  margin-top: 5px;
+}
+
+i {
+  border-radius: 200%;
+  padding: 10px;
+  border: 2px solid white;
+}
+
+i:hover {
+  background-color: black;
+}

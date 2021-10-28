@@ -1,0 +1,33 @@
+.footer-heading {
+  color: purple;
+  display: flex;
+  flex-direction: row;
+  margin-left: 10px;
+}
+
+.heading-section {
+  display: flex;
+}
+
+.footer-body {
+  margin-top: 30px;
+  color: purple;
+}
+.links > p {
+  color: purple;
+  margin-left: 60px;
+}
+
+.footer-column {
+  display: flex;
+}
+
+.btn:hover {
+  background-color: black;
+}
+
+.footer-button {
+  width: 400px;
+  height: 50px;
+  font-size: 25 px;
+}
